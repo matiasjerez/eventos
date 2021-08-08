@@ -1,0 +1,2 @@
+GET http://localhost:4001/api/events
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMGE5OTA5ZjgyYmNmMTljMDY1ZDM0MiIsInVzZXJuYW1lIjoibWF0aWFzIiwiaWF0IjoxNjI4MTI1NjM5fQ.-mIzpbDwQbP2EFoV_0Zo6JG9wwgFpaM6eEIvZ0j7jSQ
